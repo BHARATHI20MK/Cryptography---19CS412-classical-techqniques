@@ -99,11 +99,14 @@ int main() {
 
 ## OUTPUT:
 OUTPUT:
+![1](https://github.com/user-attachments/assets/36f98bc8-7dca-4a5d-a875-0fb798c0119e)
+
 Simulating Caesar Cipher
 
 
-Input : Anna University
-Encrypted Message : Dqqd Xqlyhuvlwb Decrypted Message : Anna University
+Input : BHARATHI
+Encrypted Message : ekdudwkl 
+Decrypted Message : BHARATHI
 
 ## RESULT:
 The program is executed successfully
@@ -351,7 +354,11 @@ int main() {
 
 ## OUTPUT:
 Output:
-Key text: Monarchy Plain text: instruments Cipher text: gatlmzclrqtx
+![2](https://github.com/user-attachments/assets/86ec5fb9-1d55-41f3-9a21-9da4b0ae9bc5)
+
+Key text: MoNOPOLY
+Plain text: BHARATHI 
+Cipher text: cgbqdqie
 
 ## RESULT:
 The program is executed successfully
@@ -483,11 +490,15 @@ int main() {
 
 ## OUTPUT:
 OUTPUT:
+![3](https://github.com/user-attachments/assets/cfb1f828-6b8c-40f4-8c0a-94cfb93939ee)
+
 Simulating Hill Cipher
 
 
-Input Message : SecurityLaboratory
-Padded Message : SECURITYLABORATORY Encrypted Message : EACSDKLCAEFQDUKSXU Decrypted Message : SECURITYLABORATORY
+Input Message : BHARATHI
+Padded Message : BHARATHIX
+Encrypted Message : PXPDUKRGU 
+Decrypted Message : BHARATHIX
 ## RESULT:
 The program is executed successfully
 
@@ -598,12 +609,14 @@ void decipher() {
 
 ## OUTPUT:
 OUTPUT :
+![4](https://github.com/user-attachments/assets/b0eb325b-2bd2-481e-985a-6546743ff576)
 
 Simulating Vigenere Cipher
 
 
-Input Message : SecurityLaboratory
-Encrypted Message : NMIYEMKCNIQVVROWXC Decrypted Message : SECURITYLABORATORY
+Input Message : BHARATHI
+Encrypted Message : 4:3D3F:;
+Decrypted Message : BHARATHI
 ## RESULT:
 The program is executed successfully
 
@@ -743,8 +756,11 @@ int main() {
 
 ## OUTPUT:
 OUTPUT:
-Enter a Secret Message wearediscovered
+![5](https://github.com/user-attachments/assets/f72ad241-25c5-4428-b5b5-e2e795ae0dd9)
+
+Enter a Plain Text:BHARATHI
 Enter number of rails 2
-waeicvrderdsoee
+ENCRYPTED MESSAGE:BAAHHRTI
+DECRYPTED MESSAGE:BHARATHI
 ## RESULT:
 The program is executed successfully
